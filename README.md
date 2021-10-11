@@ -52,16 +52,15 @@
                                  "V::... . .I::IHHMMV"'
                                  '"VHVHHHAHHHHMMV:"'
 ```
-Please check all that apply:
-## [ ☐ | ☑ ] Do you enjoy the WoW 29 discord channel but hate having to read every single argument day after day?
-## [ ☐ | ☑ ] Do you suffer from FOMO (fear of missing out) and want to feel included?
-## [ ☐ | ☑ ] Wish someone or something could just give you the cliff notes of the night before toxic conversations?
+#Please check all that apply:
+[ ☐ | ☑ ] Do you enjoy the WoW 29 discord channel but hate having to read every single argument?
+
+[ ☐ | ☑ ] Do you suffer from FOMO (fear of missing out) and want to feel included?
+
+[ ☐ | ☑ ] Wish someone could just summarize last night's toxic conversations?
 
 
-Well my friend you're in luck!
-
-
-Introducing the extremely mediocre, less than consistent and extremely manual based solution you've been looking for: Toxicity Reports!
+Well my friend you're in luck! Introducing the extremely mediocre, less than consistent and extremely manual based solution you've been looking for: Toxicity Reports!
 
 
 These reports are made on the fly and never daily but when the author has nothing else better to do than procrastinate at work.
