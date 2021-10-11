@@ -61,7 +61,7 @@
 **[ ☐ | ☑ ]** Wish someone could just summarize last night's toxic conversations?
 
 
-Well my friend you're in luck! Introducing the extremely mediocre, less than consistent and extremely manual based solution you've been looking for: **Toxicity Reports**! 
+Well my friend you're in luck! Introducing the wildly mediocre, less than consistent and extremely manual based solution you've been looking for: **Toxicity Reports**! 
 These reports are made on the fly and never daily but when the author has nothing else better to do than procrastinate at work.
 
 
